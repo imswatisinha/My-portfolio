@@ -264,6 +264,12 @@ img{
 .wordpress{
     width: 99%;
 }
+.DSA{
+    width: 65%;
+}
+.SQL{
+    width: 65%;
+}
 
 /* AboutMe Section */
 [data-type="inverted-image"]{
